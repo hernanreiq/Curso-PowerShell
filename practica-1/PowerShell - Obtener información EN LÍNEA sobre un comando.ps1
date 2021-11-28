@@ -1,0 +1,1 @@
+﻿Get-Help -Online Get-ChildItem
