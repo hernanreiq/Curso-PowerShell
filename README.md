@@ -1,2 +1,2 @@
 # Curso-PowerShell
-My practices on the PowerShell course
+Mis prácticas en el curso de PowerShell
