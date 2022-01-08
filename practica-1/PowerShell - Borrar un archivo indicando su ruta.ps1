@@ -1,0 +1,1 @@
+﻿Remove-Item -Path 'C:\Users\Ghost\Desktop\'
